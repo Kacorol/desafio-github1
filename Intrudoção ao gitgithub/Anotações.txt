@@ -1,0 +1,11 @@
+links uteis 
+Download git
+https://git-scm.com/
+
+Markdown guide 
+ajuda a escrever em markdown
+https://www.markdownguide.org/
+
+Alternativeto
+Lista programas alternativos Free/Paid/Open source
+https://alternativeto.net/
